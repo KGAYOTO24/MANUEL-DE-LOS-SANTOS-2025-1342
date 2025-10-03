@@ -1,4 +1,20 @@
 ==============================
+Práctica 2: Configuración de parámetros de red en Kali Linux
+==============================
+
+# 1. DHCP
+sudo dhclient -v
+ip addr show
+ip route
+cat /etc/resolv.conf
+
+# 2. IP estática temporal
+sudo ip addr add 192.168.1.100/24 dev eth0
+sudo ip route add default via 192.168.1.1
+sudo bash -c "echo 'nameserver 8.8.8.8' >> /etc/resolv.conf"
+sudo bash -c "echo 'nameserver 8.8.4.4' >> /etc/resolv.conf"
+
+==============================
 Práctica 3: Gestión de usuarios y grupos en Kali Linux
 ==============================
 
@@ -38,3 +54,4 @@ cp estudiante.txt ../materia2/
 cd ..
 
 rm -r materia
+
