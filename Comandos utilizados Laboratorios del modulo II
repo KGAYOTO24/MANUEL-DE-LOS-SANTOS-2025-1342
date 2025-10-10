@@ -1,1 +1,57 @@
 
+Comandos utilizados en el Laboratorios del modulo II
+
+Practica 1
+
+Sudo apt update
+
+sudo apt upgrade
+
+cat /etc/apt/source.list
+
+apt search bashtop
+en caso de que no la tengan en sus repositorios
+ (https://es.linux-console.net/?p=438#gsc.tab=0)
+
+sudo apt install bashtop
+
+sudo apt purge bashtop
+
+sudo apt autoremove bashtop
+
+Practica 2
+
+crontab -e
+
+0 23 * * * apt update && sudo apt upgrade -y
+
+0 3 * * 0 sudo reboot
+
+sudo systemctl status atd
+
+sudo crontab -e
+
+* * * * * rm -rf /tmp/*
+
+sudo crontab -l
+
+Practica 3
+
+sudo fdisk -l
+
+sudo fdisk /dev/sdb
+
+sudo mkfs.ext4 /dev/sdb1
+
+mkdir /home/manuel/Desktop/disc20gb
+
+sudo mount /dev/sdb1 /home/manuel/Desktop/disc20gb
+
+cd /home/manuel/Desktop/disc20gb
+
+sudo touch AdrianAlcantara.txt
+ls
+
+sudo umount /dev/sdb1
+
+sudo mount /dev/sdb1 mnt
