@@ -1,0 +1,223 @@
+Practica 1
+
+sudo nano /etc/default/grub
+
+Modificar la Variable GRUB_TIMEOUT
+GRUB_TIMEOUT=20
+
+Actualizar la Configuración de GRUB	
+sudo update-grub
+
+Practica 2
+
+Script para Backup con TAR
+
+#!/bin/bash
+
+# 1. Definir el directorio de origen (cambia "tu_usuario" por tu nombre de usuario real)
+USUARIO=$(whoami)
+DIRECTORIO_HOME="/home/$USUARIO"
+
+# 2. Definir el formato de fecha y hora
+# Formato: dd-mm-yyyy:hh:mm
+FORMATO_FECHA=$(date +%d-%m-%Y:%H:%M)
+
+# 3. Definir el nombre del archivo de backup
+NOMBRE_ARCHIVO="backup_home_${USUARIO}_${FORMATO_FECHA}.tar.gz"
+
+# 4. Definir el directorio de destino para el backup (ej. el directorio actual)
+DIRECTORIO_DESTINO="./"
+
+# 5. Crear el comprimido TAR
+echo "Iniciando backup de $DIRECTORIO_HOME..."
+
+# -c: crear, -z: comprimir con gzip, -v: mostrar progreso, -f: usar el nombre de archivo
+tar -czvf "$DIRECTORIO_DESTINO/$NOMBRE_ARCHIVO" "$DIRECTORIO_HOME"
+
+echo "¡Backup completado!"
+echo "Archivo creado: $DIRECTORIO_DESTINO/$NOMBRE_ARCHIVO"
+
+
+
+Script para Copiar ifconfig a un Archivo
+
+#!/bin/bash
+
+# 1. Definir la ubicación del Escritorio
+# Usamos $HOME/Escritorio, que funciona en la mayoría de los sistemas
+DIRECTORIO_ESCRITORIO="$HOME/Escritorio"
+
+# 2. Solicitar al usuario el nombre del archivo
+read -p "Por favor, introduce el nombre del archivo para guardar la configuración de red (ej. config_red.txt): " NOMBRE_ARCHIVO
+
+# 3. Combinar el directorio y el nombre del archivo
+RUTA_COMPLETA="$DIRECTORIO_ESCRITORIO/$NOMBRE_ARCHIVO"
+
+# 4. Verificar si ifconfig existe, si no, usar 'ip a'
+if command -v ifconfig &> /dev/null
+then
+    COMANDO_RED="ifconfig"
+else
+    # 'ip a' es el comando moderno y preferido en muchas distribuciones recientes
+    COMANDO_RED="ip a"
+fi
+
+# 5. Ejecutar el comando de red y redirigir la salida al archivo
+# Usamos > para crear/sobrescribir el archivo
+echo "Guardando la salida de $COMANDO_RED en $RUTA_COMPLETA..."
+$COMANDO_RED > "$RUTA_COMPLETA"
+
+# 6. Confirmación
+if [ $? -eq 0 ]; then
+    echo "¡Completado! El archivo '$NOMBRE_ARCHIVO' ha sido creado en el Escritorio."
+else
+    echo "Error al ejecutar el comando o al crear el archivo."
+fi
+
+
+Practica 3
+
+1. Configuración de Red y Validación de Conectividad (Ping)
+A. Configuración en la VM (VirtualBox/VMware)
+Apaga la VM Server.
+
+Accede a la Configuración de Red de la VM.
+
+Cambia el modo de adaptador de red a "Adaptador Puente" (Bridged Adapter).
+
+Asegúrate de seleccionar la interfaz de red física correcta de tu host (generalmente la tarjeta Wi-Fi o Ethernet que usas para conectarte a la red).
+
+Inicia la VM.
+
+B. Configuración de IP en la VM
+Una vez iniciada la VM, verifica la configuración de red. Si tu red local tiene un servidor DHCP, la VM debería obtener una IP dentro del mismo rango que tu host (ej. 192.168.1.x).
+
+Obtén la IP de la VM:
+
+Bash
+
+ip a  # O ifconfig si está instalado
+Anota la dirección IP que le ha asignado el router a la VM (ej. 192.168.1.50).
+
+C. Validación desde el Host de Windows (Ping)
+Abre el Símbolo del sistema (CMD) o PowerShell en tu máquina host de Windows.
+
+Ejecuta el comando ping usando la IP de tu VM:
+
+Bash
+
+ping 192.168.1.50  # Sustituye la IP por la de tu VM
+Resultado esperado: Debes recibir una respuesta ("Reply from...") indicando que la VM es accesible.
+
+2. Habilitar y Probar el Servicio SSH
+A. Habilitar SSH en la VM Linux
+Si tu distribución es Debian/Ubuntu, usa openssh-server:
+
+Instala el servidor SSH:
+
+Bash
+
+sudo apt update
+sudo apt install openssh-server -y
+Verifica que el servicio esté corriendo:
+
+Bash
+
+sudo systemctl status ssh
+Debe mostrar un estado de active (running).
+
+B. Prueba de Conexión desde el Host de Windows
+En tu Host de Windows, abre el Símbolo del sistema (CMD) o PowerShell.
+
+Conéctate usando el comando ssh, reemplazando usuario por tu nombre de usuario en la VM e IP_VM por la dirección IP:
+
+Bash
+
+ssh usuario@IP_VM
+# Ejemplo: ssh manuel@192.168.1.50
+El sistema te preguntará por primera vez si confías en la clave del host (escribe yes).
+
+Te pedirá la contraseña de tu usuario en la VM. Resultado esperado: Debes acceder a la terminal de tu VM.
+
+3. Configuración de Autenticación sin Contraseña (Claves SSH)
+Ahora generaremos un par de claves en Windows y las usaremos para iniciar sesión automáticamente.
+
+A. Generar el Par de Claves SSH en el Host de Windows
+Windows 10 y 11 tienen el cliente OpenSSH (incluyendo ssh-keygen) integrado en PowerShell o CMD.
+
+Abre PowerShell en tu máquina host de Windows.
+
+Ejecuta el comando para generar las claves (usando el algoritmo ed25519 por seguridad):
+
+PowerShell
+
+ssh-keygen -t ed25519
+Especificar el destino:
+
+Te preguntará: Enter file in which to save the key (C:\Users\tu_usuario\.ssh\id_ed25519):
+
+Deja la ruta predeterminada y presiona Enter.
+
+Paraphrase (Frase de Contraseña):
+
+Te preguntará: Enter passphrase (empty for no passphrase):
+
+Deja en blanco (presiona Enter).
+
+Confirma dejando en blanco nuevamente.
+
+Resultado: Se generarán dos archivos en el directorio C:\Users\tu_usuario\.ssh:
+
+id_ed25519: Clave Privada (no debe compartirse).
+
+id_ed25519.pub: Clave Pública (la que copiarás al servidor).
+
+B. Copiar la Clave Pública al Servidor Linux
+Usa el comando ssh-copy-id (si está disponible en tu versión de PowerShell/CMD) o hazlo manualmente.
+
+Opción 1: Usando ssh-copy-id (Recomendado)
+PowerShell
+
+ssh-copy-id -i C:\Users\tu_usuario\.ssh\id_ed25519.pub usuario@IP_VM
+# Ejemplo: ssh-copy-id -i C:\Users\manuel\.ssh\id_ed25519.pub manuel@192.168.1.50
+Se te pedirá la contraseña del usuario solo una vez para copiar la clave.
+
+Opción 2: Copia Manual (Si ssh-copy-id no está disponible)
+Muestra el contenido de la clave pública en el Host:
+
+PowerShell
+
+Get-Content C:\Users\tu_usuario\.ssh\id_ed25519.pub
+Copia todo el texto resultante (comienza con ssh-ed25519...).
+
+Conéctate al servidor Linux (usando contraseña):
+
+Bash
+
+ssh usuario@IP_VM
+Crea el directorio y el archivo de claves en la VM:
+
+Bash
+
+mkdir -p ~/.ssh
+chmod 700 ~/.ssh
+nano ~/.ssh/authorized_keys
+Pega la clave pública que copiaste en el archivo authorized_keys.
+
+Guarda y sal de nano (Ctrl+O, Enter, Ctrl+X).
+
+Ajusta los permisos del archivo authorized_keys (esto es crucial):
+
+Bash
+
+chmod 600 ~/.ssh/authorized_keys
+Cierra la conexión SSH (exit).
+
+4. Prueba Final de Conexión sin Contraseña
+En tu Host de Windows, abre una nueva instancia de PowerShell o CMD.
+
+Intenta conectarte nuevamente vía SSH:
+
+PowerShell
+
+ssh usuario@IP_VM
