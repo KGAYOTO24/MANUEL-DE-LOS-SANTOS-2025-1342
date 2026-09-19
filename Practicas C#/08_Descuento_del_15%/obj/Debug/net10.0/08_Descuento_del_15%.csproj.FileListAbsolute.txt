@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\bin\Debug\net10.0\08_Descuento_del_15%.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\bin\Debug\net10.0\08_Descuento_del_15%.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\bin\Debug\net10.0\08_Descuento_del_15%.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\bin\Debug\net10.0\08_Descuento_del_15%.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\bin\Debug\net10.0\08_Descuento_del_15%.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\08_Descuento_del_15%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\08_Descuento_del_15%.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\08_Descuento_del_15%.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\08_Descuento_del_15%.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\08_Descuento_del_15%.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\refint\08_Descuento_del_15%.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\08_Descuento_del_15%.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\08_Descuento_del_15%.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\08_Descuento_del_15%\obj\Debug\net10.0\ref\08_Descuento_del_15%.dll
