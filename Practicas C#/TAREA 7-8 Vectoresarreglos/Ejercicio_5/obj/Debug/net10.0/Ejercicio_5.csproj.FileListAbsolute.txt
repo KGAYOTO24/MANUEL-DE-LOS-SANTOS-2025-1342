@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\bin\Debug\net10.0\Ejercicio_5.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\bin\Debug\net10.0\Ejercicio_5.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\bin\Debug\net10.0\Ejercicio_5.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\bin\Debug\net10.0\Ejercicio_5.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\bin\Debug\net10.0\Ejercicio_5.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\Ejercicio_5.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\Ejercicio_5.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\refint\Ejercicio_5.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\Ejercicio_5.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\Ejercicio_5.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 7-8 Vectoresarreglos\Ejercicio_5\obj\Debug\net10.0\ref\Ejercicio_5.dll
