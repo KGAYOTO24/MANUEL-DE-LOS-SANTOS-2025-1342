@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\bin\Debug\net10.0\03_NumerosImp1a100_While.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\bin\Debug\net10.0\03_NumerosImp1a100_While.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\bin\Debug\net10.0\03_NumerosImp1a100_While.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\bin\Debug\net10.0\03_NumerosImp1a100_While.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\bin\Debug\net10.0\03_NumerosImp1a100_While.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\03_NumerosImp1a100_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\03_NumerosImp1a100_While.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\03_NumerosImp1a100_While.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\03_NumerosImp1a100_While.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\03_NumerosImp1a100_While.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\refint\03_NumerosImp1a100_While.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\03_NumerosImp1a100_While.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\03_NumerosImp1a100_While.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\03_NumerosImp1a100_While\obj\Debug\net10.0\ref\03_NumerosImp1a100_While.dll
