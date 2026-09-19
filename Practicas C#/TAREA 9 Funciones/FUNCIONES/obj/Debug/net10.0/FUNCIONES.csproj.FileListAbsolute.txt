@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\bin\Debug\net10.0\FUNCIONES.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\bin\Debug\net10.0\FUNCIONES.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\bin\Debug\net10.0\FUNCIONES.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\bin\Debug\net10.0\FUNCIONES.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\bin\Debug\net10.0\FUNCIONES.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\FUNCIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\FUNCIONES.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\FUNCIONES.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\FUNCIONES.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\FUNCIONES.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\refint\FUNCIONES.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\FUNCIONES.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\FUNCIONES.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 9 Funciones\FUNCIONES\obj\Debug\net10.0\ref\FUNCIONES.dll
