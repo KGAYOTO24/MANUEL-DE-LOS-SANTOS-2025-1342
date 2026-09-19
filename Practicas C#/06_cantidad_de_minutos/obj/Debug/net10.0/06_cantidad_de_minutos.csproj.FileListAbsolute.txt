@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\bin\Debug\net10.0\06_cantidad_de_minutos.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\bin\Debug\net10.0\06_cantidad_de_minutos.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\bin\Debug\net10.0\06_cantidad_de_minutos.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\bin\Debug\net10.0\06_cantidad_de_minutos.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\bin\Debug\net10.0\06_cantidad_de_minutos.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\06_cantidad_de_minutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\06_cantidad_de_minutos.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\06_cantidad_de_minutos.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\06_cantidad_de_minutos.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\06_cantidad_de_minutos.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\refint\06_cantidad_de_minutos.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\06_cantidad_de_minutos.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\06_cantidad_de_minutos.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\06_cantidad_de_minutos\obj\Debug\net10.0\ref\06_cantidad_de_minutos.dll

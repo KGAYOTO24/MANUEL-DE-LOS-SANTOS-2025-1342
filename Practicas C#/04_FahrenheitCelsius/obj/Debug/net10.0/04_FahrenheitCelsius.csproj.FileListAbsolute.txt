@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\bin\Debug\net10.0\04_FahrenheitCelsius.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\bin\Debug\net10.0\04_FahrenheitCelsius.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\bin\Debug\net10.0\04_FahrenheitCelsius.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\bin\Debug\net10.0\04_FahrenheitCelsius.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\bin\Debug\net10.0\04_FahrenheitCelsius.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\04_FahrenheitCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\04_FahrenheitCelsius.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\04_FahrenheitCelsius.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\04_FahrenheitCelsius.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\04_FahrenheitCelsius.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\refint\04_FahrenheitCelsius.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\04_FahrenheitCelsius.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\04_FahrenheitCelsius.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\04_FahrenheitCelsius\obj\Debug\net10.0\ref\04_FahrenheitCelsius.dll
