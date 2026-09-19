@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\bin\Debug\net10.0\13_Iniciales.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\bin\Debug\net10.0\13_Iniciales.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\bin\Debug\net10.0\13_Iniciales.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\bin\Debug\net10.0\13_Iniciales.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\bin\Debug\net10.0\13_Iniciales.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\13_Iniciales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\13_Iniciales.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\13_Iniciales.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\13_Iniciales.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\13_Iniciales.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\refint\13_Iniciales.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\13_Iniciales.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\13_Iniciales.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\13_Iniciales\obj\Debug\net10.0\ref\13_Iniciales.dll
