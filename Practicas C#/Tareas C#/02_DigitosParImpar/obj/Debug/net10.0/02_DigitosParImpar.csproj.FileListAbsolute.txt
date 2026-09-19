@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\bin\Debug\net10.0\02_DigitosParImpar.exe
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\bin\Debug\net10.0\02_DigitosParImpar.deps.json
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\bin\Debug\net10.0\02_DigitosParImpar.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\bin\Debug\net10.0\02_DigitosParImpar.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\bin\Debug\net10.0\02_DigitosParImpar.pdb
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\02_DigitosParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\02_DigitosParImpar.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\02_DigitosParImpar.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\02_DigitosParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\02_DigitosParImpar.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\refint\02_DigitosParImpar.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\02_DigitosParImpar.pdb
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\02_DigitosParImpar.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\02_DigitosParImpar\obj\Debug\net10.0\ref\02_DigitosParImpar.dll

@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\bin\Debug\net10.0\03_SumaDigitos.exe
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\bin\Debug\net10.0\03_SumaDigitos.deps.json
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\bin\Debug\net10.0\03_SumaDigitos.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\bin\Debug\net10.0\03_SumaDigitos.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\bin\Debug\net10.0\03_SumaDigitos.pdb
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\03_SumaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\03_SumaDigitos.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\03_SumaDigitos.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\03_SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\03_SumaDigitos.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\refint\03_SumaDigitos.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\03_SumaDigitos.pdb
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\03_SumaDigitos.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\03_SumaDigitos\obj\Debug\net10.0\ref\03_SumaDigitos.dll
