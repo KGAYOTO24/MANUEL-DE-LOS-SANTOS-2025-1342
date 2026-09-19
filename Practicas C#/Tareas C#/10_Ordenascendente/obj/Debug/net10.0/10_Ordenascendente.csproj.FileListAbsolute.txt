@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\bin\Debug\net10.0\10_Ordenascendente.exe
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\bin\Debug\net10.0\10_Ordenascendente.deps.json
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\bin\Debug\net10.0\10_Ordenascendente.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\bin\Debug\net10.0\10_Ordenascendente.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\bin\Debug\net10.0\10_Ordenascendente.pdb
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\10_Ordenascendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\10_Ordenascendente.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\10_Ordenascendente.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\10_Ordenascendente.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\10_Ordenascendente.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\refint\10_Ordenascendente.dll
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\10_Ordenascendente.pdb
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\10_Ordenascendente.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\Tarea 4 Estructura condicional  Diagramas de flujo\10_Ordenascendente\obj\Debug\net10.0\ref\10_Ordenascendente.dll
