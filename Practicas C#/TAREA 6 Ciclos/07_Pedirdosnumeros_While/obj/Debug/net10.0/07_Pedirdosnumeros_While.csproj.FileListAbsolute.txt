@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\bin\Debug\net10.0\07_Pedirdosnumeros_While.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\bin\Debug\net10.0\07_Pedirdosnumeros_While.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\bin\Debug\net10.0\07_Pedirdosnumeros_While.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\bin\Debug\net10.0\07_Pedirdosnumeros_While.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\bin\Debug\net10.0\07_Pedirdosnumeros_While.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\07_Pedirdosnumeros_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\07_Pedirdosnumeros_While.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\07_Pedirdosnumeros_While.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\07_Pedirdosnumeros_While.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\07_Pedirdosnumeros_While.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\refint\07_Pedirdosnumeros_While.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\07_Pedirdosnumeros_While.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\07_Pedirdosnumeros_While.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 6 Ciclos\07_Pedirdosnumeros_While\obj\Debug\net10.0\ref\07_Pedirdosnumeros_While.dll
