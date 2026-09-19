@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\bin\Debug\net10.0\Practicas_Arrays_ciclos.exe
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\bin\Debug\net10.0\Practicas_Arrays_ciclos.deps.json
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\bin\Debug\net10.0\Practicas_Arrays_ciclos.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\bin\Debug\net10.0\Practicas_Arrays_ciclos.dll
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\bin\Debug\net10.0\Practicas_Arrays_ciclos.pdb
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\Practicas_Arrays_ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\Practicas_Arrays_ciclos.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\Practicas_Arrays_ciclos.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\Practicas_Arrays_ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\Practicas_Arrays_ciclos.dll
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\refint\Practicas_Arrays_ciclos.dll
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\Practicas_Arrays_ciclos.pdb
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\Practicas_Arrays_ciclos.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\Practicas_Arrays_ciclos\obj\Debug\net10.0\ref\Practicas_Arrays_ciclos.dll

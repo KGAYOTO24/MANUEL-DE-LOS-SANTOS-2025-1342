@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "practicas_arrays/1.0.0": {
+        "runtime": {
+          "practicas_arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practicas_arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

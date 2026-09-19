@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\bin\Debug\net10.0\practicas_arrays.exe
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\bin\Debug\net10.0\practicas_arrays.deps.json
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\bin\Debug\net10.0\practicas_arrays.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\bin\Debug\net10.0\practicas_arrays.dll
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\bin\Debug\net10.0\practicas_arrays.pdb
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\practicas_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\practicas_arrays.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\practicas_arrays.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\practicas_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\practicas_arrays.dll
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\refint\practicas_arrays.dll
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\practicas_arrays.pdb
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\practicas_arrays.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\practicas arrays\practicas_arrays\obj\Debug\net10.0\ref\practicas_arrays.dll
