@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\bin\Debug\net10.0\03_OperacionesBasicas.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\bin\Debug\net10.0\03_OperacionesBasicas.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\bin\Debug\net10.0\03_OperacionesBasicas.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\bin\Debug\net10.0\03_OperacionesBasicas.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\bin\Debug\net10.0\03_OperacionesBasicas.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\03_OperacionesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\03_OperacionesBasicas.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\03_OperacionesBasicas.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\03_OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\03_OperacionesBasicas.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\refint\03_OperacionesBasicas.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\03_OperacionesBasicas.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\03_OperacionesBasicas.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\03_OperacionesBasicas\obj\Debug\net10.0\ref\03_OperacionesBasicas.dll

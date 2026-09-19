@@ -1,0 +1,14 @@
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\bin\Debug\net10.0\02_AreaPerimetro.exe
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\bin\Debug\net10.0\02_AreaPerimetro.deps.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\bin\Debug\net10.0\02_AreaPerimetro.runtimeconfig.json
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\bin\Debug\net10.0\02_AreaPerimetro.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\bin\Debug\net10.0\02_AreaPerimetro.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\02_AreaPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\02_AreaPerimetro.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\02_AreaPerimetro.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\02_AreaPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\02_AreaPerimetro.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\refint\02_AreaPerimetro.dll
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\02_AreaPerimetro.pdb
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\02_AreaPerimetro.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Desktop\TAREA 3 FUNDAMENTO DE PROGRAMACION\02_AreaPerimetro\obj\Debug\net10.0\ref\02_AreaPerimetro.dll
